@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priti Pratiksha Kar</h1>
 <h3 align="center">A passionate SDE from India</h3>
 
-<img align="right" alt="coding" width="400"src="![image](https://github.com/pritikar03/pritikar03/assets/87608935/82a39cdf-40dc-4c90-86ea-af5e5a302d8b)">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritikar03&label=Profile%20views&color=0e75b6&style=flat" alt="pritikar03" /> </p>
 
 - 🔭 I’m currently working on **real time projects**
